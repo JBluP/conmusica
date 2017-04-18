@@ -14,4 +14,4 @@ Licencia GPLv3+: GPL de GNU versión 3 o posterior <http://gnu.org/licenses/gpl.
 Versión de ffmpeg utilizada
 ffmpeg version 3.1.7
 
-http://thumbs.subefotos.com/316a7e9af93d1938c88eda7509ae9615o.jpg
+[url=http://subefotos.com/ver/?316a7e9af93d1938c88eda7509ae9615o.png][img]http://thumbs.subefotos.com/316a7e9af93d1938c88eda7509ae9615o.jpg[/img][/url]
