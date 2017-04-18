@@ -14,3 +14,4 @@ Licencia GPLv3+: GPL de GNU versión 3 o posterior <http://gnu.org/licenses/gpl.
 Versión de ffmpeg utilizada
 ffmpeg version 3.1.7
 
+https://www.dropbox.com/s/34p0zaf6e27390q/Captura%20de%20pantalla%20de%202017-04-16%2001-41-20.png?dl=0
