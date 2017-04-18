@@ -15,3 +15,5 @@ Versión de ffmpeg utilizada
 ffmpeg version 3.1.7
 
 [url=http://subefotos.com/ver/?316a7e9af93d1938c88eda7509ae9615o.png][img]http://thumbs.subefotos.com/316a7e9af93d1938c88eda7509ae9615o.jpg[/img][/url]
+
+<a href="http://subefotos.com/ver/?316a7e9af93d1938c88eda7509ae9615o.png" target="_blank"><img src="http://thumbs.subefotos.com/316a7e9af93d1938c88eda7509ae9615o.jpg" /></a>
